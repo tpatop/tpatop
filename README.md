@@ -1,0 +1,2 @@
+- Python Backend Developer
+- **Skills**: SQLAlchemy, Alembic, FastAPI, aiogram, PostgresSQL, JWT, Docker

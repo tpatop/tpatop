@@ -1,2 +1,3 @@
 - Python Backend Developer
 - **Skills**: SQLAlchemy, Alembic, FastAPI, aiogram, PostgresSQL, JWT, Docker
+- How to reach me: https://t.me/tres_two_b

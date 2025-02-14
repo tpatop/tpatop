@@ -24,16 +24,6 @@ My name is Vitaly, and I specialize in building robust and scalable backend appl
 - Set up and automate CI/CD pipelines  
 - Install and manage cryptocurrency project nodes  
 
----
-
-## 📬 How to Reach Me:
-
-- [Twitter](https://x.com/tpatopc)  
-- [Telegram](https://t.me/tres_two_b)  
-- tpatop2000@gmail.com  
-
----
-
 ## ✨ Fun Facts About Me:
 
 - I’m passionate about learning new technologies and constantly improving my skills.  
